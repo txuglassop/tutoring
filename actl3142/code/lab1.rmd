@@ -1,0 +1,7 @@
+
+# Q1
+
+a.
+```{r}
+college <- read.csv('College.csv')
+```
